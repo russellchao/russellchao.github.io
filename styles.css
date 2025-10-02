@@ -204,6 +204,14 @@ section {
     font-size: 0.9em;
 }
 
+.profilePic {
+    max-width: 120px; /* Adjust this value to make it smaller or larger */
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+    display: block;
+}
+
 @media (min-width: 640px) {
     .statsContainer {
         flex-direction: row;
