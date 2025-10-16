@@ -205,7 +205,7 @@ section {
 }
 
 .profilePic {
-    max-width: 120px; /* Adjust this value to make it smaller or larger */
+    max-width: 180px; /* Adjust this value to make it smaller or larger */
     height: auto;
     border-radius: 8px;
     object-fit: cover;
